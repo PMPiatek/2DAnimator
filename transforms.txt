@@ -1,2 +1,4 @@
 rotate: target="poly_1" angle=100
 rotate: target="elli_2" angle=100
+translate: target="rect_1" x=10 y=10
+scale: taget="rect_2" x=3 y=5
