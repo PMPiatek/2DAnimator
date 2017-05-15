@@ -1,0 +1,8 @@
+background: path="..\background.jpg"
+polygon: name="poly_1" points={{50, 150}, {150, 150}, {100, 50}}
+polygon: name="poly_2" points={{660, 400}, {720, 440}, {690, 520}, {630, 520}, {600, 440}}
+rectangle: name="rect_1" x=300 y=250 width=200 height=100
+rectangle: name="rect_2" x=300 y=75 width=150 height=150
+ellipse: name="elli_1" x=120 y=300 xRadius=100 yRadius=50
+ellipse: name="elli_2" x=600 y=120 xRadius=50 yRadius=100
+

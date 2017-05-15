@@ -1,0 +1,2 @@
+rotate: target="poly_1" angle=100
+rotate: target="elli_2" angle=100
