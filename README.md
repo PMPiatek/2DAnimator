@@ -1,4 +1,6 @@
 # 2DAnimator
+Program created during a university course in 2015.
+
 This program allows creating and animating simple scenes of basic geometric shapes. 
 Main goal was to create program that animates 2D objects without causing deformations that could occur because of accumulation of computational inaccuracies.
 
